@@ -1,19 +1,19 @@
 # fscan-POC
-强化fscan的漏扫POC库
+Enhanced fscan's missed scan POC library
 
-声明：该POC仅供于学习跟安全检测使用，如果违法&恶意操作，与本人无关！！！欢迎关注chaosec公众号
+Disclaimer: This POC is only for learning and security testing. If it is illegal & malicious, it has nothing to do with me! ! ! Welcome to the Chaosec Official Account
 
-如果有师傅想加的漏洞POC可以公众号或者项目评论告诉我
+If there is a loophole POC that the master wants to add, you can tell me on the public account or project comment
 
-一、使用说明：
+1. Instructions for use:
 
-将fscan项目拉取到本地，然后找到路径\fscan\WebScan\pocs\，将该项目的.yml文件放入该路径重新打包fscan即可食用
+Pull the fscan project to the local, then find the path \fscan\WebScan\pocs\, put the .yml file of the project in this path and repackage fscan to eat
 
-fscan项目地址：https://github.com/shadow1ng/fscan
+fscan project address: https://github.com/shadow1ng/fscan
 
-二、更新：
+2. Update:
 
-2022.4.10 
+2022.4.10
 
 add CVE-2022-22947-spring-clond-Gateway-RCE.yml
 
@@ -37,11 +37,10 @@ add CVE-2017-7504-Jboss-serialization-RCE.yml
 
 2022.05.28
 
-修复了一些问题
+Fixed some issues
 
-感谢Whale3070师傅指出错误，并且给出修改建议
+Thanks to Master Whale3070 for pointing out the mistakes and giving suggestions for revisions
 
 ![image](https://user-images.githubusercontent.com/75511051/162608378-f4abbb55-0271-4fe1-9296-f3e83f07555a.png)
 
-会持续更新!!!
-
+Will continue to update!!!
